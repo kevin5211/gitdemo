@@ -5,5 +5,7 @@ public class Main {
         System.out.println("第一次修改");
         System.out.println("我提交的一个bug分支");
         System.out.println("我提交的第二个bug分支");
+
+        System.out.println("bug2.........");
     }
 }
