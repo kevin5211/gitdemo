@@ -22,5 +22,6 @@ public class TestFirst {
         System.out.println("提交dev");
         System.out.println("reset soft");
         System.out.println("reset soft2");
+        System.out.println("reset mixed");
     }
 }
